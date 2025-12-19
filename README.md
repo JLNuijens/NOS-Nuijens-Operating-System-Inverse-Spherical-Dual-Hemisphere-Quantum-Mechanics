@@ -1,53 +1,37 @@
-## Document Map
+NOS Series Roadmap
+Inverse Mathematics and Inverse Spherical Dual Hemisphere Quantum Mechanics (ISDHQM)
+An Alternative Foundation for Counting, Units, and Dynamics
+Authors: Joshua Luke Nuijens & Seth Ryan Cromelin
+Updated: December 2025
+This repository hosts the ongoing series of papers developing Inverse Mathematics — a parallel arithmetic system that counts partitions of a closed whole (starting from √1 = 1) rather than abstract accumulations from zero — and its application to physics via Inverse Spherical Dual Hemisphere Quantum Mechanics (ISDHQM).
+The series is strictly hierarchical: each paper builds directly on the previous ones. All derive from the foundational axioms without external assumptions.
+Reading Order & Roadmap
 
-This repository contains the core written components of the Nuijens Operating System (NOS) theoretical framework. Each document covers a specific subsystem:
+Foundation of Inverse MathematicsNOS v17 (Core Foundation Paper)
+Establishes the alternative counting system.
+Key concepts: inverse partitioning, √n as dimensional partition, universal equality n × (1/n) = 1, exclusion of zero, 512-bin/720° structure, 128-bin quadrant block, compressed unit u = 45/32°.
+Prerequisite for all subsequent papers.
+Download PDF
 
-🔹 NOS Inverse Dual Hemisphere Quantum Operating Mechanics
+Inverse Spherical Dual Hemisphere Quantum Mechanics: Physical Unit Counting and OperationsNOS v18 (Physics Application – Units & Operations)
+Applies the foundation to derive physical units and measurements.
+Introduces quadrant-based unit types (Q1–Q4), depth ladder scaling (1/128ⁿ), reinterpretation of multiplication as conjugate completion, conservation as logical necessity, and derivation of the fine-structure constant from gearbox mechanics.
+Requires NOS v17.
+Download PDF
 
-The foundational quantum layer.
-Defines the 720° inverse-spherical geometry, Q1–Q4 threading, dsin/dcos/csin/ccos, and dual-hemisphere operators.
+Inverse Mathematics: Operational Field Tensor DynamicsNOS v17.6 (Revised December 18, 2025 – Dynamics & Operator Mechanics)
+Develops the full operational field theory of the inverse sphere.
+Introduces the signed 720° manifold, dual conjugate pairs (inner engine Q1↔Q3, outer hull Q2↔Q4), the sole invariant Q₀ = 1, hierarchical depth weights, the ISDQO (Inverse Spherical Dual Quantion Operator = D·P·D⁻¹), phase evolution, and non-trivial conservation under scaling.
+Requires NOS v17 (and ideally NOS v18 for physical context).
+Download PDF
 
-🔹 NOS Manual
 
-High-level overview and conceptual manual for NOS.
-Describes the philosophy, the dual-state operating mode, and geometric structure.
+Future Papers (Planned)
 
-🔹 NOS EM Full Spectrum
+Quantum state evolution and entanglement via depth ladder operations
+Electromagnetic phenomena from gearbox geometry
+Gravitational mechanics from compression echo
+Cosmological implications of 720° closure
 
-Derives the 40-phase electromagnetic spectrum geometry from the dual-hemisphere manifold.
-
-🔹 NOS EM Ignition and Absorption (Phase 137)
-
-Shows how EM ignition/absorption angles arise from the 168° shift and 137 mapping.
-
-🔹 NOS Pi & 137 System Setting
-
-Describes the structural constants π_struct = 201/64, α_struct = 137, and their ε-driven drift.
-
-🔹 NOS Chemical Bit Binding Register
-
-A geometric model of chemical covalence, explaining why 128/47 appears across chemistry.
-
-🔹 NOS Periodic Table
-
-Chemical geometry and electron valence derived from Q-block structure.
-
-🔹 NOS Stellar Inverse Mechanics
-
-Stellar mass inversion, collapse thresholds, and compression hemisphere physics.
-
-🔹 NOS Black Hole Mass Compression
-
-High-compression limit, Q4-compression boundary, and mass inversion conditions.
-
-🔹 NOS DNA Dual-State Operating Configuration
-
-Biological / informational interpretation of NOS threading (experimental idea).
-
-🔹 NOS String Theory Toy Model
-
-Exploratory mapping between NOS geometry and string modes (optional conceptual work).
-
-🔹 NOS Cromelin Information Compiler (CIC)
-
-Applied NOS computation: A working information-retrieval engine built on NOS resonance geometry.
+All papers are released under the MIT License (see individual PDFs for full text).
+Feedback, discussions, and contributions welcome via issues or pull requests.
